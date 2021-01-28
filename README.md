@@ -1,4 +1,3 @@
-# INSA 2SU 2020
+# INSA 2SU
 
-https://bitbucket.org/whitewand/2su_2020/src
 
