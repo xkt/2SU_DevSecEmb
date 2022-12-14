@@ -30,3 +30,12 @@ https://hackernoon.com/
 https://www.reddit.com/r/securityCTF/comments/8wgn18/dragonsec_security_ctf_community_discord/
 
 https://ctftime.org/
+
+https://github.com/xoreaxeaxeax/movfuscator
+
+https://github.com/hackgnar/ble_ctf
+
+https://www.youtube.com/watch?v=1X21HQphy6I
+
+https://github.com/CodeIntelligenceTesting/cifuzz
+
