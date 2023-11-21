@@ -125,5 +125,17 @@ Astuce github / Joe Grand
 
 Décrivez votre processus et raisonnement pour évaluer la sécurité d'un système embarqué au niveau matériel et logiciel.
 
+
+# TD4 bis (alternative au précédent) Exploit Dev
+
+See Intro_ExploitDev.md (en anglais)
+
+## Questions:
+
+* Est ce que les buffers overflows sont plus faciles à exploiter sur la stack ou sur la heap?
+* Quelles défenses ou méthodes peuvent être utilisées pour trouver ou contrer ces bugs?
+* Quels sont les limites de ces défenses? Quel est le risque qu'il reste ou reste t'il un vecteur d'attaque?
+* Est ce qu'il existe un moyen infaillible de défendre contre cette catégorie de bugs?
+
 <!-- pandoc .\TODO_2SU_TD_2021.md -o .\TODO_2SU_TD_2021.pdf --from markdown --template eisvogel --listings --variable urlcolor=cyan -->
 
