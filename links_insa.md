@@ -1,6 +1,8 @@
 
 # Quelques liens vers des ressources supplémentaires:
 
+https://godbolt.org/      // compiler explorer
+
 https://www.youtube.com/user/OpenSecurityTraining/videos
 
 https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA
