@@ -1,4 +1,4 @@
-% TODO_2SU_TD_2023
+# % TODO_2SU_TD_2023
 
 **à rendre pour le 10 février par mail**
 
@@ -16,7 +16,9 @@ Regardez les templates markdown pour pandoc par exemple eisvogel pour une belle 
 
 # TD1 emily
 
-Suivre le tuto [patching de binaire](https://archive.emily.st/2015/01/27/reverse-engineering/)
+Suivre le tuto [patching de binaire](https://web.archive.org/web/20210120032416/https://archive.emily.st/2015/01/27/reverse-engineering/)
+
+<!-- https://archive.emily.st/2015/01/27/reverse-engineering/ -->
 
 ## Questions:
 
@@ -60,7 +62,9 @@ la commande pour le pull :
 docker build -t ubuntu18:ctf - < Dockerfile
 ```
 
-lien vers binaire: [speedrun](https://media.defcon.org/DEF%20CON%2027/DEF%20CON%2027%20ctf/OOO%20DEF%20CON%2027%20CTF%20Quals/OOO%20DEF%20CON%2027%20CTF%20quals%20challenges/dc2019q-speedrun-001-master/service/)
+lien vers binaire: [speedrun](https://github.com/o-o-overflow/dc2019q-speedrun-001/blob/master/service/speedrun-001)
+
+<!-- https://media.defcon.org/DEF%20CON%2027/DEF%20CON%2027%20ctf/OOO%20DEF%20CON%2027%20CTF%20Quals/OOO%20DEF%20CON%2027%20CTF%20quals%20challenges/dc2019q-speedrun-001-master/service/ -->
 
 Astuce gdb :
 
