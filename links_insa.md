@@ -41,5 +41,7 @@ https://www.youtube.com/watch?v=1X21HQphy6I
 
 https://github.com/CodeIntelligenceTesting/cifuzz
 
+https://github.com/antonio-morales/Hackfest_Advanced_Fuzzing_Workshop
+
 https://www.youtube.com/joshmedeski
 

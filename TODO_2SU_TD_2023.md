@@ -95,7 +95,7 @@ Prendre les formes de code avec des bugs dans le cours ou trouver des équivalen
 * Use unitialized
 * Double free
 
-Utiliser TD1 Emily comme base et [cifuzz](https://github.com/CodeIntelligenceTesting/cifuzz) comme fuzzer pour retrouver les bugs.
+Utiliser TD1 Emily comme base et [cifuzz](https://github.com/CodeIntelligenceTesting/cifuzz) / [sulley](https://github.com/OpenRCE/sulley) / [afl++](https://github.com/AFLplusplus/AFLplusplus) / [libfuzzer](https://aviii.hashnode.dev/the-art-of-fuzzing-a-step-by-step-guide-to-coverage-guided-fuzzing-with-libfuzzer) comme fuzzer pour retrouver les bugs.
 
 Donnez une explication des crashs et de comment exploiter les différents bugs.
 
