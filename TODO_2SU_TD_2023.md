@@ -138,7 +138,7 @@ Décrivez votre processus et raisonnement pour évaluer la sécurité d'un syst�
 
 # TD4 bis (alternative au précédent) Exploit Dev
 
-See Intro_ExploitDev.md (en anglais)
+See [Intro_ExploitDev.md](https://github.com/xkt/2SU_DevSecEmb/blob/master/Intro_ExploitDev.md) (en anglais)
 
 ## Questions:
 
