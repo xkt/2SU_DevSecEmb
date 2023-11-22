@@ -50,6 +50,8 @@ Bonus: Quelle propriété de sécurité *n'est pas* garantie? Que peut on faire 
 
 Suivre le tuto [bufferoverflow et rop speedrun](https://liveoverflow.com/speedrun-hacking-buffer-overflow-speedrun-001-dc27-2/)
 
+**WARNING**: ne pas utiliser la commande nc pour vous connecter au serveur mais utiliser le binaire localement avec le lien en dessous.
+
 Résumé: 
 
 lien vers vidéo: [vidéo](https://www.youtube.com/watch?v=gBL6IzwIjuA)
@@ -65,6 +67,10 @@ docker build -t ubuntu18:ctf - < Dockerfile
 lien vers binaire: [speedrun](https://github.com/o-o-overflow/dc2019q-speedrun-001/blob/master/service/speedrun-001)
 
 <!-- https://media.defcon.org/DEF%20CON%2027/DEF%20CON%2027%20ctf/OOO%20DEF%20CON%2027%20CTF%20Quals/OOO%20DEF%20CON%2027%20CTF%20quals%20challenges/dc2019q-speedrun-001-master/service/ -->
+
+Astuce trouver l'offset de l'overflow:
+
+[pattern create generator](https://zerosum0x0.blogspot.com/2016/11/overflow-exploit-pattern-generator.html)
 
 Astuce gdb :
 
