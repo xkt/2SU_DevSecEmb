@@ -37,6 +37,8 @@ dans Qemu.
 
 [source](https://bootlin.com/blog/qemu-arm-directfb-demo/)
 
+**WARNING**: utilisez un environnement virtualisé lorsque vous manupulez un binaire inconnu!
+
 ## Questions:
 
 * Trouvez et modifiez le pingouin. Qu'est ce qui empêche de modifier le pinguoin directement?

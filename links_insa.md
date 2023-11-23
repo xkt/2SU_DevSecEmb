@@ -3,6 +3,10 @@
 
 https://godbolt.org/      // compiler explorer
 
+https://gist.github.com/rkubik/b96c23bd8ed58333de37f2b8cd052c30 // gdb
+
+https://users.ece.utexas.edu/~adnan/gdb-refcard.pdf
+
 https://www.youtube.com/user/OpenSecurityTraining/videos
 
 https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA
