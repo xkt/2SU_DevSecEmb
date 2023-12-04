@@ -3,6 +3,8 @@
 
 https://godbolt.org/      // compiler explorer
 
+https://github.com/sunxfancy/vscode-llvm
+
 https://gist.github.com/rkubik/b96c23bd8ed58333de37f2b8cd052c30 // gdb
 
 https://users.ece.utexas.edu/~adnan/gdb-refcard.pdf
