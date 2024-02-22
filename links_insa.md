@@ -31,6 +31,8 @@ https://www.youtube.com/channel/UCVFXrUwuWxNlm6UNZtBLJ-A
 
 https://www.youtube.com/channel/UC9x0AN7BWHpCDHSm9NiJFJQ
 
+https://github.com/jaybosamiya/security-notes
+
 https://github.com/fkie-cad/awesome-embedded-and-iot-security
 
 https://hackernoon.com/
