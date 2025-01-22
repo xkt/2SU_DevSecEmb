@@ -53,6 +53,9 @@ https://ctftime.org/
 
 https://github.com/xoreaxeaxeax/movfuscator
 
+// skull reverse
+https://www.youtube.com/watch?v=HlUe0TUHOIc
+
 https://www.youtube.com/watch?v=1X21HQphy6I
 
 https://github.com/CodeIntelligenceTesting/cifuzz
