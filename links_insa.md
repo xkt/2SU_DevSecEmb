@@ -33,7 +33,17 @@ https://www.youtube.com/channel/UC9x0AN7BWHpCDHSm9NiJFJQ
 
 https://github.com/jaybosamiya/security-notes
 
+https://notebooklm.google.com/
+
 https://github.com/fkie-cad/awesome-embedded-and-iot-security
+
+https://github.com/praetorian-inc/DVRF
+
+https://blog.quarkslab.com/how-i-built-a-car-in-a-box.html
+
+https://electroniccats.com/store/faulty-cat/
+
+https://github.com/hackgnar/ble_ctf
 
 https://hackernoon.com/
 
@@ -42,8 +52,6 @@ https://www.reddit.com/r/securityCTF/comments/8wgn18/dragonsec_security_ctf_comm
 https://ctftime.org/
 
 https://github.com/xoreaxeaxeax/movfuscator
-
-https://github.com/hackgnar/ble_ctf
 
 https://www.youtube.com/watch?v=1X21HQphy6I
 
