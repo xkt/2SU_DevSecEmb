@@ -3,6 +3,8 @@
 
 https://godbolt.org/      // compiler explorer
 
+https://dogbolt.org/?id=8f1e28f5-3bfc-4d41-8be2-82c12f54487f    // decompiler explorer
+
 https://github.com/sunxfancy/vscode-llvm
 
 https://gist.github.com/rkubik/b96c23bd8ed58333de37f2b8cd052c30 // gdb
