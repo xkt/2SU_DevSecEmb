@@ -25,6 +25,8 @@ Suivre le tuto [patching de binaire](https://web.archive.org/web/20210120032416/
 * Patcher le binaire. Quelle différence dans un environnement ARM?
 * Comprendre le lien les attaques physiques / expliquez quelles sont les attaques par patching possibles sur une boucle for.
 * Quelle défense est ce que je peux utiliser contre le patching? Utilisez openssl pour metter en oeuvre cette défense et la valider
+* Utilisez un schéma pour expliquer où les assets à protéger sont placés si ce binaire était déployé dans un environnement embarqué. 
+  Développez au moins 2 vecteurs d'attaque.
 
 Bonus: Effectuer la même manipulation avec avec un autre outil par ex: Ghidra ? quels sont les avantages / inconvénients ?
 
