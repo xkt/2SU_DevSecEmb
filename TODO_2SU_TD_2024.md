@@ -1,6 +1,6 @@
 # % TODO_2SU_TD_2024
 
-**à rendre pour le 10 février par mail**
+**à rendre pour le 3 février par mail**
 
 Cours: [https://github.com/xkt/2SU_DevSecEmb](https://github.com/xkt/2SU_DevSecEmb)
 
