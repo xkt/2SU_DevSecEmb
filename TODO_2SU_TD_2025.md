@@ -1,4 +1,4 @@
-# % TODO_2SU_TD_2024
+# % TODO_2SU_TD_2025
 
 **à rendre pour le 3 février par mail**
 
@@ -39,7 +39,7 @@ dans Qemu.
 
 [source](https://bootlin.com/blog/qemu-arm-directfb-demo/)
 
-**WARNING**: utilisez un environnement virtualisé lorsque vous manupulez un binaire inconnu!
+**WARNING**: utilisez un environnement virtualisé lorsque vous manupulez un binaire inconnu! Pas d'extraction sauvage dans "/"
 
 ## Questions:
 
