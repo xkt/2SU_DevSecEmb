@@ -43,11 +43,15 @@ dans Qemu.
 
 ## Questions:
 
-* Trouvez et modifiez le pingouin. Qu'est ce qui empêche de modifier le pinguoin directement?
+* Trouvez et modifiez le pingouin. Qu'est ce qui empêche de modifier le pingouin directement?
 * Qu'est ce que je peux faire pour contourner cette protection?
 * Quelle propriété de sécurité est garantie? 
 
 Bonus: Quelle propriété de sécurité *n'est pas* garantie? Que peut on faire pour obtenir cette garantie?
+
+Note: Repackager le pingouin modifié n'est pas facile / possible sans comprendre l'intégralité de l'architecture du packer, vous pouvez cependant pousser le repackagaging jusqu'au maximum de votre compréhension
+
+Note 2: Comment savoir où le repackaging coince? Peut-on modifier directement le pingouin en utilisant ce qui a été appris dans le TD1?
 
 
 # TD3 speedrun
